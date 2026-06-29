@@ -4,6 +4,20 @@ Multi-user ephemeral SMS verification-code relay.
 Anyone pushes codes with any token, then views them with the same token.  
 Different tokens get completely isolated message lists.
 
+🔗 Live demo: https://sms.hsfp.cn
+
+[中文说明](README-CN.md)
+
+## Screenshots
+
+### Login page
+
+![Login page](screenshot-login.png)
+
+### Message page
+
+![Message page](screenshot-messages.png)
+
 ## Quick Start
 
 ```bash
